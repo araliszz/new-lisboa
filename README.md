@@ -1,4 +1,4 @@
-# TaskFlow — Gerenciador de Tarefas
+# TaskDLA — Gerenciador de Tarefas
 
 Aplicação web para organizar tarefas do dia a dia, desenvolvida com **HTML5, CSS3 e JavaScript puro** como atividade acadêmica de Desenvolvimento Web.
 
