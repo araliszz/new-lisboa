@@ -2,7 +2,7 @@
 
 Aplicação web para organizar tarefas do dia a dia, desenvolvida com **HTML5, CSS3 e JavaScript puro** como atividade acadêmica de Desenvolvimento Web.
 
-🔗 **Demonstração online:** https://araliszz.github.io/taskflow-gerenciador-tarefas/
+🔗 **Demonstração online:** https://araliszz.github.io/new-lisboa/
 
 ---
 
@@ -45,7 +45,7 @@ Não foram usados frameworks nem bibliotecas. A fonte *Plus Jakarta Sans* vem do
 ## 📁 Estrutura de pastas
 
 ```
-taskflow-gerenciador-tarefas/
+new-lisboa/
 ├── index.html          # Estrutura da página
 ├── README.md           # Documentação do projeto
 ├── .gitignore          # Arquivos ignorados pelo Git
@@ -62,13 +62,13 @@ taskflow-gerenciador-tarefas/
 
 **Opção 1: online**
 
-Acesse https://araliszz.github.io/taskflow-gerenciador-tarefas/
+Acesse https://araliszz.github.io/new-lisboa/
 
 **Opção 2: no computador**
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/araliszz/taskflow-gerenciador-tarefas.git
+   git clone https://github.com/araliszz/new-lisboa.git
    ```
 2. Abra a pasta do projeto.
 3. Dê dois cliques em `index.html` para abrir no navegador (Chrome, Edge, Firefox ou Safari).
