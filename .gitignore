@@ -1,0 +1,18 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Variáveis de ambiente e credenciais (nunca versionar)
+.env
+.env.*
+*.pem
+*.key
+
+# Dependências e logs
+node_modules/
+*.log
